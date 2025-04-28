@@ -1,0 +1,1 @@
+import{_ as s,c as t,a,o as n}from"./BeGlfzns.js";const o={},l={class:"admin-page"};function i(r,e){return n(),t("div",l,e[0]||(e[0]=[a("h1",null,"Admin Page",-1),a("p",null,"This is the admin page where you can manage tutorials.",-1),a("div",{class:"tutorials-list"},[a("h2",null,"Tutorials"),a("ul")],-1)]))}const d=s(o,[["render",i]]);export{d as default};
