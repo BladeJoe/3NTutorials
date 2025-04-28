@@ -1,0 +1,695 @@
+[
+    {
+        "id": 1,
+        "name": "English Alphabet",
+        "category": "English",
+        "content": "{\"title1\": \"The Alphabet\", \"desc1\": \"Learn the 26 letters of the English alphabet.\", \"title2\": \"Uppercase and Lowercase\", \"desc2\": \"Understand the difference between uppercase and lowercase letters.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 2,
+        "name": "Basic Nouns",
+        "category": "English",
+        "content": "{\"title1\": \"What are Nouns?\", \"desc1\": \"Learn about nouns, which name people, places, things, or ideas.\", \"title2\": \"Common Nouns\", \"desc2\": \"Explore common nouns like 'cat', 'city', and 'table'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 3,
+        "name": "Subject Pronouns",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Subject Pronouns\", \"desc1\": \"Learn how subject pronouns replace nouns as the subject of a sentence.\", \"title2\": \"Common Subject Pronouns\", \"desc2\": \"Understand the basic subject pronouns: I, you, he, she, it, we, they.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 4,
+        "name": "Action Verbs",
+        "category": "English",
+        "content": "{\"title1\": \"What are Action Verbs?\", \"desc1\": \"Action verbs describe actions that the subject performs.\", \"title2\": \"Basic Action Verbs\", \"desc2\": \"Explore simple action verbs like 'run', 'eat', and 'sleep'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 5,
+        "name": "Descriptive Adjectives",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Descriptive Adjectives\", \"desc1\": \"Learn how descriptive adjectives describe the qualities of nouns.\", \"title2\": \"Basic Descriptive Adjectives\", \"desc2\": \"Explore simple descriptive adjectives like 'big', 'happy', and 'blue'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 6,
+        "name": "Adverbs of Manner",
+        "category": "English",
+        "content": "{\"title1\": \"What are Adverbs of Manner?\", \"desc1\": \"Learn how adverbs of manner describe how an action is performed.\", \"title2\": \"Common Adverbs of Manner\", \"desc2\": \"Understand adverbs like 'quickly', 'slowly', and 'carefully'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 7,
+        "name": "Prepositions of Place (Basic)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Prepositions of Place\", \"desc1\": \"Learn how prepositions show the position of something.\", \"title2\": \"Common Prepositions of Place\", \"desc2\": \"Learn 'in', 'on', and 'under' to describe location.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 8,
+        "name": "Coordinating Conjunctions (and but or)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Coordinating Conjunctions\", \"desc1\": \"Learn how coordinating conjunctions connect words or simple clauses.\", \"title2\": \"Using 'And'\", \"desc2\": \"Understand how 'and' joins similar ideas.\", \"title3\": \"Using 'But'\", \"desc3\": \"Explore how 'but' shows contrast.\", \"title4\": \"Using 'Or'\", \"desc4\": \"Learn how 'or' presents alternatives.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 9,
+        "name": "Basic Interjections",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Interjections\", \"desc1\": \"Learn how interjections express sudden feelings.\", \"title2\": \"Common Basic Interjections\", \"desc2\": \"Understand basic interjections like 'oh', 'ouch', and 'wow'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 10,
+        "name": "Simple Sentences",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Sentence Structure\", \"desc1\": \"Learn the fundamental components of a simple sentence: subject and verb.\", \"title2\": \"Identifying Subject and Verb\", \"desc2\": \"Understand how to find the subject and verb in a simple sentence.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 11,
+        "name": "Zero Conditional (General Truths)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Zero Conditional\", \"desc1\": \"Learn how the zero conditional expresses general truths or scientific facts.\", \"title2\": \"Forming Zero Conditional\", \"desc2\": \"Understand the structure: if/when + present simple, present simple.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 12,
+        "name": "Present Simple Tense",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Present Simple\", \"desc1\": \"Learn how the present simple describes habits and routines.\", \"title2\": \"Forming Present Simple\", \"desc2\": \"Understand how to form the present simple with different subjects.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 13,
+        "name": "Indefinite Articles (a an)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Indefinite Articles\", \"desc1\": \"Learn how 'a' and 'an' are used with singular countable nouns.\", \"title2\": \"Using 'A' and 'An'\", \"desc2\": \"Understand when to use 'a' versus 'an' based on the following sound.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 14,
+        "name": "Yes No Questions (using be)",
+        "category": "English",
+        "content": "{\"title1\": \"Forming Yes/No Questions with 'Be'\", \"desc1\": \"Learn how to form yes/no questions using the verb 'be'.\", \"title2\": \"Structure of 'Be' Questions\", \"desc2\": \"Understand the subject-verb inversion for 'be' questions.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 15,
+        "name": "Basic Reported Statements",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Reported Statements\", \"desc1\": \"Learn how to report what someone said in a simple way.\", \"title2\": \"Changing Pronouns and Verb Tenses (Basic)\", \"desc2\": \"Understand basic changes in pronouns and present to past tense.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 16,
+        "name": "Basic Comparatives (-er)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Basic Comparatives\", \"desc1\": \"Learn how to compare two things using adjectives with '-er'.\", \"title2\": \"Forming Basic Comparatives\", \"desc2\": \"Understand how to add '-er' to short adjectives.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 17,
+        "name": "Active and Passive Voice (Simple Present)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Active and Passive Voice\", \"desc1\": \"Learn the difference between active and passive voice in the present simple.\", \"title2\": \"Active Voice in Present Simple\", \"desc2\": \"Understand the structure of active sentences in the present simple.\", \"title3\": \"Passive Voice in Present Simple\", \"desc3\": \"Explore the structure of passive sentences in the present simple.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 18,
+        "name": "Basic Punctuation (Periods Commas)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Punctuation\", \"desc1\": \"Learn the fundamental uses of periods and commas.\", \"title2\": \"Using Periods\", \"desc2\": \"Understand how periods end declarative sentences.\", \"title3\": \"Using Commas in Lists\", \"desc3\": \"Explore how commas separate items in a list.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 19,
+        "name": "Basic Subject Verb Agreement",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Subject-Verb Agreement\", \"desc1\": \"Learn how singular subjects take singular verbs and plural subjects take plural verbs in the present simple.\", \"title2\": \"Agreement with 'Be'\", \"desc2\": \"Understand subject-verb agreement with the verb 'be' in the present tense.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 20,
+        "name": "Modal Verb Can (Ability)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to 'Can'\", \"desc1\": \"Learn how 'can' expresses present ability.\", \"title2\": \"Using 'Can' in Sentences\", \"desc2\": \"Understand how to form positive, negative, and question sentences with 'can'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 21,
+        "name": "Basic Contractions (Be Have)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Contractions\", \"desc1\": \"Learn how to form basic contractions with 'be' and 'have'.\", \"title2\": \"Contractions with 'Be'\", \"desc2\": \"Understand contractions like 'I'm', 'you're', and 'it's'.\", \"title3\": \"Contractions with 'Have'\", \"desc3\": \"Explore contractions like 'I've', 'you've', and 'he's' (as 'has').\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 22,
+        "name": "Preposition of Time At",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'At' for Time\", \"desc1\": \"Learn how to use 'at' to refer to specific points in time.\", \"title2\": \"Examples with 'At'\", \"desc2\": \"Understand examples like 'at 6 o'clock' and 'at noon'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 23,
+        "name": "Preposition of Place On",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'On' for Place\", \"desc1\": \"Learn how to use 'on' to refer to surfaces.\", \"title2\": \"Examples with 'On'\", \"desc2\": \"Understand examples like 'on the table' and 'on the wall'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 24,
+        "name": "Basic Vowel Sounds (Pronunciation)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Basic Vowel Sounds\", \"desc1\": \"Learn the most common short vowel sounds in English.\", \"title2\": \"Examples of Short Vowels\", \"desc2\": \"Understand the pronunciation of /æ/, /e/, /ɪ/, /ɒ/, and /ʌ/.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 25,
+        "name": "Word Stress (Two Syllable)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Word Stress in Two-Syllable Words\", \"desc1\": \"Learn the common stress patterns in two-syllable nouns and verbs.\", \"title2\": \"Stress on the First Syllable (Nouns)\", \"desc2\": \"Understand examples where the first syllable is stressed in nouns.\", \"title3\": \"Stress on the Second Syllable (Verbs)\", \"desc3\": \"Explore examples where the second syllable is stressed in verbs.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 26,
+        "name": "Rising Intonation (Yes No Questions)",
+        "category": "English",
+        "content": "{\"title1\": \"Rising Intonation\", \"desc1\": \"Learn how rising intonation is typically used in yes/no questions.\", \"title2\": \"Examples of Rising Intonation\", \"desc2\": \"Understand how your voice goes up at the end of a yes/no question.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 27,
+        "name": "Countable Uncountable Nouns (Basic)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Difference\", \"desc1\": \"Learn the fundamental difference between nouns you can count and those you cannot.\", \"title2\": \"Examples of Countable Nouns\", \"desc2\": \"Understand examples like 'chair' and 'student'.\", \"title3\": \"Examples of Uncountable Nouns\", \"desc3\": \"Explore examples like 'water' and 'advice'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 28,
+        "name": "Verb Noun Collocations (Common)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Verb + Noun Collocations\", \"desc1\": \"Learn some common pairings of verbs and nouns.\", \"title2\": \"Examples of Verb + Noun Collocations\", \"desc2\": \"Understand examples like 'make a mistake' and 'take a picture'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 29,
+        "name": "Separable Phrasal Verbs (Basic)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Separable Phrasal Verbs\", \"desc1\": \"Learn about phrasal verbs where the particle can be separated from the verb with an object.\", \"title2\": \"Examples of Separable Phrasal Verbs\", \"desc2\": \"Understand examples like 'turn on the light' and 'pick up the book'.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 30,
+        "name": "Relative Pronouns Who Which (Basic)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Basic Relative Pronouns\", \"desc1\": \"Learn how 'who' and 'which' introduce relative clauses.\", \"title2\": \"Using 'Who' for People\", \"desc2\": \"Understand how 'who' refers to people.\", \"title3\": \"Using 'Which' for Things\", \"desc3\": \"Explore how 'which' refers to objects and animals.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 31,
+        "name": "First Conditional (Possible Future)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to First Conditional\", \"desc1\": \"Learn how the first conditional expresses real possibilities in the future.\", \"title2\": \"Forming First Conditional\", \"desc2\": \"Understand the structure: if + present simple, will + base verb.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 32,
+        "name": "Indefinite Pronouns Some Any (Basic)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Indefinite Pronouns: Some and Any\", \"desc1\": \"Learn the basic uses of 'some' and 'any' for unspecified quantities.\", \"title2\": \"Using 'Some'\", \"desc2\": \"Understand how 'some' is used in positive sentences and offers.\", \"title3\": \"Using 'Any'\", \"desc3\": \"Explore how 'any' is used in negative sentences and questions.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 33,
+        "name": "Possessive Adjectives (my your his her its)",
+        "category": "English",
+        "content": "{\"title1\": \"Introduction to Possessive Adjectives\", \"desc1\": \"Learn how possessive adjectives show ownership.\", \"title2\": \"Common Possessive Adjectives\", \"desc2\": \"Understand the basic possessive adjectives: my, your, his, her, its.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 34,
+        "name": "Conjunctions of Time When While",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Conjunctions of Time\", \"desc1\": \"Learn how 'when' indicates a specific time or event.\", \"title2\": \"Using 'When'\", \"desc2\": \"Understand how 'when' indicates a specific time or event.\", \"title3\": \"Using 'While'\", \"desc3\": \"Explore how 'while' indicates an action happening at the same time as another.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "content": "{\"title1\": \"Basic Conjunction of Cause\", \"desc1\": \"Learn how 'because' explains the reason for something.\", \"title2\": \"Using 'Because' Clauses\", \"desc2\": \"Understand how to structure sentences with 'because'.\"}",
+        "lvl": "beginner",
+        "name": "Conjunction of Cause Because",
+        "category": "English",
+        "id": 35
+    },
+    {
+        "id": 36,
+        "name": "Adverbial Phrases of Place",
+        "category": "English",
+        "content": "{\"title1\": \"Adverbial Phrases of Place\", \"desc1\": \"Learn how prepositional phrases can function as adverbs of place.\", \"title2\": \"Common Prepositional Phrases of Place\", \"desc2\": \"Explore phrases like 'in the garden' and 'on the street'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 37,
+        "name": "Future Tense Will (Predictions)",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'Will' for Future\", \"desc1\": \"Learn how 'will' is used to make simple future predictions.\", \"title2\": \"Forming Sentences with 'Will'\", \"desc2\": \"Understand the basic structure for future sentences with 'will'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 38,
+        "name": "Past Continuous Tense (Basic)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Past Continuous Usage\", \"desc1\": \"Learn how the past continuous describes actions in progress at a specific time in the past.\", \"title2\": \"Forming Past Continuous\", \"desc2\": \"Understand the structure: was/were + verb-ing.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 39,
+        "name": "Present Continuous Tense (Now)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Present Continuous Usage\", \"desc1\": \"Learn how the present continuous describes actions happening at the moment of speaking.\", \"title2\": \"Forming Present Continuous\", \"desc2\": \"Understand the structure: am/is/are + verb-ing.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 40,
+        "name": "Present Perfect Tense (Present Result)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Present Perfect Usage\", \"desc1\": \"Learn how the present perfect connects a past action to the present result.\", \"title2\": \"Forming Present Perfect\", \"desc2\": \"Understand the structure: have/has + past participle.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 41,
+        "name": "Comparative Adjectives (More)",
+        "category": "English",
+        "content": "{\"title1\": \"Comparatives with 'More'\", \"desc1\": \"Learn how to compare two things using 'more' with longer adjectives.\", \"title2\": \"Forming Comparatives with 'More'\", \"desc2\": \"Understand how to use 'more' + adjective.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 42,
+        "name": "Superlative Adjectives (Most)",
+        "category": "English",
+        "content": "{\"title1\": \"Superlatives with 'Most'\", \"desc1\": \"Learn how to compare three or more things using 'most' with longer adjectives.\", \"title2\": \"Forming Superlatives with 'Most'\", \"desc2\": \"Understand how to use 'most' + adjective.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 43,
+        "name": "Definite Article The",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'The'\", \"desc1\": \"Learn how the definite article 'the' refers to specific nouns.\", \"title2\": \"Examples with 'The'\", \"desc2\": \"Understand when a noun is considered specific.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 44,
+        "name": "Using Some (Countable Uncountable)",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'Some'\", \"desc1\": \"Learn how to use 'some' with both countable and uncountable nouns.\", \"title2\": \"'Some' with Countable Plural Nouns\", \"desc2\": \"Understand examples like 'some apples'.\", \"title3\": \"'Some' with Uncountable Nouns\", \"desc3\": \"Explore examples like 'some water'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 45,
+        "name": "Using So and Neither (Agreement)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Agreement with 'So' and 'Neither'\", \"desc1\": \"Learn the basic structure for agreeing with positive and negative statements using 'so' and 'neither'.\", \"title2\": \"Structure with 'So'\", \"desc2\": \"Understand 'So + auxiliary verb + subject'.\", \"title3\": \"Structure with 'Neither'\", \"desc3\": \"Explore 'Neither + auxiliary verb + subject'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 46,
+        "name": "Future Continuous Tense (Specific Future Time)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Future Continuous Usage\", \"desc1\": \"Learn how the future continuous describes actions in progress at a specific time in the future.\", \"title2\": \"Forming Future Continuous\", \"desc2\": \"Understand the structure: will be + verb-ing.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 47,
+        "name": "Future Perfect Tense (Completed Before Future)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Future Perfect Usage\", \"desc1\": \"Learn how the future perfect describes actions completed before a specific point in the future.\", \"title2\": \"Forming Future Perfect\", \"desc2\": \"Understand the structure: will have + past participle.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 48,
+        "name": "Direct and Indirect Objects (Identifying)",
+        "category": "English",
+        "content": "{\"title1\": \"Identifying Direct and Indirect Objects\", \"desc1\": \"Learn how to identify the direct and indirect objects in a sentence.\", \"title2\": \"Finding the Direct Object\", \"desc2\": \"Understand how to ask 'what' or 'whom' after the verb.\", \"title3\": \"Finding the Indirect Object\", \"desc3\": \"Explore how to ask 'to whom' or 'for whom' the action is done.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 49,
+        "name": "Relative Pronoun That (General)",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'That'\", \"desc1\": \"Learn how 'that' can be used as a relative pronoun for both people and things.\", \"title2\": \"'That' in Defining Relative Clauses\", \"desc2\": \"Understand how 'that' introduces essential information.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 50,
+        "name": "Past Perfect Tense (Before Past Actions)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Past Perfect Usage\", \"desc1\": \"Learn how the past perfect describes actions completed before another action in the past.\", \"title2\": \"Forming Past Perfect\", \"desc2\": \"Understand the structure: had + past participle.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 51,
+        "name": "Expressing Ability Could (Past)",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'Could' for Past Ability\", \"desc1\": \"Learn how 'could' expresses ability in the past.\", \"title2\": \"Forming Sentences with 'Could'\", \"desc2\": \"Understand how to form positive, negative, and question sentences with 'could' for past ability.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 52,
+        "name": "Past Simple vs Present Perfect (Time Focus)",
+        "category": "English",
+        "content": "{\"title1\": \"Focus on Time Reference\", \"desc1\": \"Learn how the past simple relates to a specific finished time, while the present perfect connects to the present.\", \"title2\": \"Past Simple with Specific Time\", \"desc2\": \"Understand examples with 'yesterday' or 'last week'.\", \"title3\": \"Present Perfect with Unspecified Time\", \"desc3\": \"Explore examples with 'ever' or 'never'.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 53,
+        "name": "Prepositions of Movement To From",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Prepositions of Movement\", \"desc1\": \"Learn how 'to' indicates movement towards, and 'from' indicates movement away.\", \"title2\": \"Using 'To'\", \"desc2\": \"Understand examples like 'go to the store'.\", \"title3\": \"Using 'From'\", \"desc3\": \"Explore examples like 'come from home'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 54,
+        "name": "Adverbs of Definite Frequency",
+        "category": "English",
+        "content": "{\"title1\": \"Adverbs of Definite Frequency\", \"desc1\": \"Learn about adverbs that specify exactly how often something happens.\", \"title2\": \"Common Definite Frequency Adverbs\", \"desc2\": \"Explore adverbs like 'daily', 'weekly', and 'annually'.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 55,
+        "name": "Polite Requests Would (Basic)",
+        "category": "English",
+        "content": "{\"title1\": \"Basic Polite Requests with 'Would'\", \"desc1\": \"Learn the basic way to make polite requests using 'would'.\", \"title2\": \"Forming Polite Requests\", \"desc2\": \"Understand the structure 'Would you + base verb + ...?'\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 56,
+        "name": "Comparative Adverbs (-er)",
+        "category": "English",
+        "content": "{\"title1\": \"Comparatives with '-er' (Adverbs)\", \"desc1\": \"Learn how to form comparative adverbs by adding '-er' to short adverbs.\", \"title2\": \"Examples of Short Comparative Adverbs\", \"desc2\": \"Understand examples like 'faster' and 'earlier'.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 57,
+        "name": "Superlative Adverbs (-est)",
+        "category": "English",
+        "content": "{\"title1\": \"Superlatives with '-est' (Adverbs)\", \"desc1\": \"Learn how to form superlative adverbs by adding '-est' to short adverbs.\", \"title2\": \"Examples of Short Superlative Adverbs\", \"desc2\": \"Understand examples like 'fastest' and 'earliest'.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 58,
+        "name": "Imperative Sentences (Commands)",
+        "category": "English",
+        "content": "{\"title1\": \"Positive and Negative Imperatives\", \"desc1\": \"Learn how to form positive and negative commands.\", \"title2\": \"Forming Positive Commands\", \"desc2\": \"Understand using the base form of the verb.\", \"title3\": \"Forming Negative Commands\", \"desc3\": \"Explore using 'Don't + base verb'.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 59,
+        "name": "Present Perfect Continuous Tense (Duration)",
+        "category": "English",
+        "content": "{\"title1\": \"Focus on Duration\", \"desc1\": \"Learn how the present perfect continuous emphasizes the length of an action up to the present.\", \"title2\": \"Using 'For' and 'Since'\", \"desc2\": \"Understand how 'for' and 'since' are used with this tense to indicate duration.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 60,
+        "name": "Past Perfect Continuous Tense (Duration Before Past)",
+        "category": "English",
+        "content": "{\"title1\": \"Focus on Duration Before Past Event\", \"desc1\": \"Learn how the past perfect continuous emphasizes the length of an action before another past event.\", \"title2\": \"Using 'For' and 'Since' with Past Perfect Continuous\", \"desc2\": \"Understand how 'for' and 'since' indicate duration up to a past point.\"}",
+        "lvl": "advanced"
+    },
+    {
+        "id": 61,
+        "name": "Suggestions with Let's",
+        "category": "English",
+        "content": "{\"title1\": \"Suggesting with 'Let's'\", \"desc1\": \"Learn how to use 'Let's' to make suggestions involving yourself and others.\", \"title2\": \"Forming Suggestions with 'Let's'\", \"desc2\": \"Understand the structure 'Let's + base verb + ...'\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 62,
+        "name": "Making Offers Can I Shall I",
+        "category": "English",
+        "content": "{\"title1\": \"Making Offers with 'Can I' and 'Shall I'\", \"desc1\": \"Learn how to make offers using 'Can I' and 'Shall I'.\", \"title2\": \"Using 'Can I' to Offer Help\", \"desc2\": \"Understand how 'Can I' is used for simple offers.\", \"title3\": \"Using 'Shall I' for More Formal Offers\", \"desc3\": \"Explore how 'Shall I' is used for more formal or polite offers.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 63,
+        "name": "Expressing Opinions I Think In My Opinion",
+        "category": "English",
+        "content": "{\"title1\": \"More Ways to Express Opinions\", \"desc1\": \"Learn more phrases for expressing your opinions.\", \"title2\": \"Using 'I Think That...'\", \"desc2\": \"Understand how to use 'I think that' followed by a clause.\", \"title3\": \"Using 'In My Opinion,'\", \"desc3\": \"Explore how to start a sentence with 'In my opinion,'\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 64,
+        "name": "Cause and Effect So That (Purpose)",
+        "category": "English",
+        "content": "{\"title1\": \"Expressing Purpose with 'So That'\", \"desc1\": \"Learn how to use 'so that' to explain the purpose of an action.\", \"title2\": \"Structuring Sentences with 'So That'\", \"desc2\": \"Understand how to connect clauses using 'so that'.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 65,
+        "name": "Using Too and Enough (Placement)",
+        "category": "English",
+        "content": "{\"title1\": \"Placement of 'Too' and 'Enough'\", \"desc1\": \"Learn where to correctly place 'too' and 'enough' in sentences.\", \"title2\": \"Placing 'Too'\", \"desc2\": \"Understand that 'too' usually comes before the adjective or adverb.\", \"title3\": \"Placing 'Enough'\", \"desc3\": \"Explore that 'enough' usually comes after the adjective or adverb.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 66,
+        "name": "Reported Speech (Past Simple Verbs)",
+        "category": "English",
+        "content": "{\"title1\": \"Reporting Past Simple Statements\", \"desc1\": \"Learn how to report statements where the original verb is in the past simple.\", \"title2\": \"Changing Past Simple to Past Perfect\", \"desc2\": \"Understand the common tense shift from past simple to past perfect in reported speech.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 67,
+        "name": "Reported Speech (Questions Be Modals)",
+        "category": "English",
+        "content": "{\"title1\": \"Reporting Yes/No Questions with 'Be' and Modals\", \"desc1\": \"Learn how to report yes/no questions that use the verb 'be' or modal verbs.\", \"title2\": \"Reporting 'Be' Questions\", \"desc2\": \"Understand how to use 'if' or 'whether' and change the word order.\", \"title3\": \"Reporting Modal Verb Questions\", \"desc3\": \"Explore how to use 'if' or 'whether' and adjust the modal verb (if necessary).\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "content": "{\"title1\": \"Using 'So' to Show Result\", \"desc1\": \"Learn how 'so' connects clauses to show a consequence or result.\", \"title2\": \"Structuring Sentences with 'So' (Result)\", \"desc2\": \"Understand how to link causes and effects using 'so'.\"}",
+        "lvl": "beginner",
+        "name": "Conjunction So (Result)",
+        "category": "English",
+        "id": 68
+    },
+    {
+        "id": 69,
+        "name": "Because vs Because Of",
+        "category": "English",
+        "content": "{\"title1\": \"'Because' vs. 'Because Of'\", \"desc1\": \"Learn the difference between using 'because' with a clause and 'because of' with a noun phrase.\", \"title2\": \"Using 'Because' with a Clause\", \"desc2\": \"Understand how 'because' introduces a reason with a subject and verb.\", \"title3\": \"Using 'Because Of' with a Noun Phrase\", \"desc3\": \"Explore how 'because of' is followed by a noun or pronoun.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 70,
+        "name": "Relative Pronoun Whose (Possession)",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'Whose'\", \"desc1\": \"Learn how 'whose' is used as a relative pronoun to show possession.\", \"title2\": \"'Whose' in Relative Clauses\", \"desc2\": \"Understand how 'whose' connects a relative clause to a possessive noun.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 72,
+        "name": "First Conditional (Real Possibilities)",
+        "category": "English",
+        "content": "{\"title1\": \"Conditional Sentences: First Conditional\", \"desc1\": \"Learn how to express real and possible situations using the first conditional.\", \"title2\": \"Forming the First Conditional\", \"desc2\": \"Understand how to form the first conditional using 'if' + present simple, and future simple in the main clause.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 73,
+        "name": "Second Conditional (Hypothetical)",
+        "category": "English",
+        "content": "{\"title1\": \"Conditional Sentences: Second Conditional\", \"desc1\": \"Learn how to express hypothetical or unlikely situations using the second conditional.\", \"title2\": \"Forming the Second Conditional\", \"desc2\": \"Understand how to form the second conditional using 'if' + past simple, and 'would' in the main clause.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 74,
+        "name": "Third Conditional (Past Hypotheticals)",
+        "category": "English",
+        "content": "{\"title1\": \"Conditional Sentences: Third Conditional\", \"desc1\": \"Learn how to express regrets or past hypothetical situations using the third conditional.\", \"title2\": \"Forming the Third Conditional\", \"desc2\": \"Understand how to form the third conditional using 'if' + past perfect, and 'would have' in the main clause.\"}",
+        "lvl": "advanced"
+    },
+    {
+        "id": 75,
+        "name": "Future Continuous Tense (Future in Progress)",
+        "category": "English",
+        "content": "{\"title1\": \"What is the Future Continuous Tense?\", \"desc1\": \"Learn how the future continuous tense describes actions that will be in progress at a certain time in the future.\", \"title2\": \"Usage of Future Continuous\", \"desc2\": \"Understand how to use the future continuous tense to describe future actions in progress.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 76,
+        "name": "Future Perfect Tense (Completed by Future)",
+        "category": "English",
+        "content": "{\"title1\": \"What is the Future Perfect Tense?\", \"desc1\": \"Learn how the future perfect tense describes actions that will be completed by a certain point in the future.\", \"title2\": \"Usage of Future Perfect\", \"desc2\": \"Understand how to use the future perfect tense to talk about actions that will finish before another future event.\"}",
+        "lvl": "advanced"
+    },
+    {
+        "id": 77,
+        "name": "Future Perfect Continuous (Ongoing Before Future)",
+        "category": "English",
+        "content": "{\"title1\": \"What is the Future Perfect Continuous Tense?\", \"desc1\": \"Learn how the future perfect continuous tense describes actions that will have been in progress for a certain amount of time before another event in the future.\", \"title2\": \"Usage of Future Perfect Continuous\", \"desc2\": \"Understand how to use the future perfect continuous tense for actions that will continue until a future point.\"}",
+        "lvl": "advanced"
+    },
+    {
+        "id": 78,
+        "name": "Noun Clauses (Functions as Nouns)",
+        "category": "English",
+        "content": "{\"title1\": \"What are Noun Clauses?\", \"desc1\": \"Learn how noun clauses function as subjects, objects, or complements in a sentence.\", \"title2\": \"Examples of Noun Clauses\", \"desc2\": \"Understand how noun clauses act as the subject or object of a sentence.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 79,
+        "name": "Adjective Clauses (Modifying Nouns)",
+        "category": "English",
+        "content": "{\"title1\": \"What are Adjective Clauses?\", \"desc1\": \"Learn how adjective clauses modify or describe nouns in a sentence.\", \"title2\": \"Examples of Adjective Clauses\", \"desc2\": \"Understand how adjective clauses are used to provide more details about a noun.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 80,
+        "name": "Adverb Clauses (Modifying Verbs Adjectives Adverbs)",
+        "category": "English",
+        "content": "{\"title1\": \"What are Adverb Clauses?\", \"desc1\": \"Learn how adverb clauses modify verbs, adjectives, or other adverbs in a sentence.\", \"title2\": \"Examples of Adverb Clauses\", \"desc2\": \"Understand how adverb clauses provide information about time, place, manner, or cause.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 81,
+        "name": "Countable Uncountable Nouns (Distinction)",
+        "category": "English",
+        "content": "{\"title1\": \"Countable and Uncountable Nouns\", \"desc1\": \"Learn the difference between countable and uncountable nouns.\", \"title2\": \"Countable Nouns\", \"desc2\": \"Understand how countable nouns are used with a plural form and can be counted.\", \"title3\": \"Uncountable Nouns\", \"desc3\": \"Explore how uncountable nouns refer to substances or concepts that cannot be counted.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 82,
+        "name": "Using Some and Any (Indefinite Quantity)",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'Some' and 'Any'\", \"desc1\": \"Learn how to use 'some' and 'any' for countable and uncountable nouns.\", \"title2\": \"Using 'Some'\", \"desc2\": \"Understand how to use 'some' in positive statements and offers/requests.\", \"title3\": \"Using 'Any'\", \"desc3\": \"Explore how to use 'any' in negative statements and questions.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 83,
+        "name": "Using Much and Many (Asking Quantity)",
+        "category": "English",
+        "content": "{\"title1\": \"Using 'Much' and 'Many'\", \"desc1\": \"Learn how to use 'much' for uncountable nouns and 'many' for countable nouns.\", \"title2\": \"Using 'Much'\", \"desc2\": \"Understand how to use 'much' for uncountable nouns in negative and question forms.\", \"title3\": \"Using 'Many'\", \"desc3\": \"Explore how to use 'many' for countable nouns in negative and question forms.\"}",
+        "lvl": "beginner"
+    },
+    {
+        "id": 84,
+        "name": "Quantifiers (A Lot of Few Little)",
+        "category": "English",
+        "content": "{\"title1\": \"Quantifiers: A Lot of, Few, Little\", \"desc1\": \"Learn how to use quantifiers to talk about quantity.\", \"title2\": \"A Lot of\", \"desc2\": \"Understand how to use 'a lot of' for both countable and uncountable nouns.\", \"title3\": \"Few and Little\", \"desc3\": \"Explore how to use 'few' for countable nouns and 'little' for uncountable nouns.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 85,
+        "name": "Comparatives (Adjectives and Adverbs)",
+        "category": "English",
+        "content": "{\"title1\": \"Comparatives: Adjectives and Adverbs\", \"desc1\": \"Learn how to compare people, things, and actions using comparative adjectives and adverbs.\", \"title2\": \"Comparing with Adjectives\", \"desc2\": \"Understand how to use comparative adjectives with 'more' or '-er'.\", \"title3\": \"Comparing with Adverbs\", \"desc3\": \"Explore how to use comparative adverbs with 'more' or '-ly' endings.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 86,
+        "name": "Superlatives (Adjectives and Adverbs)",
+        "category": "English",
+        "content": "{\"title1\": \"Superlatives: Adjectives and Adverbs\", \"desc1\": \"Learn how to express the highest degree of comparison with superlative adjectives and adverbs.\", \"title2\": \"Superlative Adjectives\", \"desc2\": \"Understand how to form superlative adjectives using 'the most' or '-est'.\", \"title3\": \"Superlative Adverbs\", \"desc3\": \"Explore how to form superlative adverbs using 'the most' or '-ly' endings.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 87,
+        "name": "Phrasal Verbs (Common Expressions)",
+        "category": "English",
+        "content": "{\"title1\": \"Phrasal Verbs: Common Expressions\", \"desc1\": \"Learn common phrasal verbs and their meanings.\", \"title2\": \"Phrasal Verbs with 'Get'\", \"desc2\": \"Explore phrasal verbs like 'get up', 'get out', 'get by'.\", \"title3\": \"Phrasal Verbs with 'Give'\", \"desc3\": \"Understand phrasal verbs like 'give up', 'give in', 'give away'.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 88,
+        "name": "Direct and Indirect Objects (Identifying Roles)",
+        "category": "English",
+        "content": "{\"title1\": \"Direct and Indirect Objects\", \"desc1\": \"Learn how to identify and use direct and indirect objects in a sentence.\", \"title2\": \"Direct Objects\", \"desc2\": \"Understand how the direct object receives the action of the verb directly.\", \"title3\": \"Indirect Objects\", \"desc3\": \"Explore how the indirect object receives the direct object.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 89,
+        "name": "Modal Verbs of Necessity (Must Have To)",
+        "category": "English",
+        "content": "{\"title1\": \"Modal Verbs of Necessity\", \"desc1\": \"Learn how to express necessity and obligation using modal verbs.\", \"title2\": \"Using 'Must'\", \"desc2\": \"Understand how to use 'must' for strong necessity or obligation.\", \"title3\": \"Using 'Have to'\", \"desc3\": \"Explore how to use 'have to' for necessity or external obligations.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 90,
+        "name": "Modal Verbs of Permission (Can May)",
+        "category": "English",
+        "content": "{\"title1\": \"Modal Verbs of Permission\", \"desc1\": \"Learn how to ask for and give permission using modal verbs.\", \"title2\": \"Using 'Can'\", \"desc2\": \"Understand how to use 'can' for asking and giving permission.\", \"title3\": \"Using 'May'\", \"desc3\": \"Explore how to use 'may' as a more formal way to ask for permission.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 91,
+        "name": "Modal Verbs of Ability (Can Could)",
+        "category": "English",
+        "content": "{\"title1\": \"Modal Verbs of Ability\", \"desc1\": \"Learn how to express ability using modal verbs.\", \"title2\": \"Using 'Can'\", \"desc2\": \"Understand how to use 'can' for expressing ability in the present.\", \"title3\": \"Using 'Could'\", \"desc3\": \"Explore how to use 'could' for past ability or polite requests.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 92,
+        "name": "Modal Verbs of Possibility (Can Might May)",
+        "category": "English",
+        "content": "{\"title1\": \"Modal Verbs of Possibility\", \"desc1\": \"Learn how to express possibility using modal verbs.\", \"title2\": \"Using 'Can'\", \"desc2\": \"Understand how to use 'can' to show possibility in the present.\", \"title3\": \"Using 'Might' and 'May'\", \"desc3\": \"Explore how to use 'might' and 'may' for expressing future possibilities.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 93,
+        "name": "Reflexive Pronouns (-self -selves)",
+        "category": "English",
+        "content": "{\"title1\": \"Reflexive Pronouns\", \"desc1\": \"Learn how to use reflexive pronouns to indicate that the subject of the sentence is also the object.\", \"title2\": \"Examples of Reflexive Pronouns\", \"desc2\": \"Understand the usage of pronouns like 'myself', 'yourself', 'himself', etc.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 94,
+        "name": "Possessive Pronouns (mine yours theirs)",
+        "category": "English",
+        "content": "{\"title1\": \"Possessive Pronouns\", \"desc1\": \"Learn how to use possessive pronouns to show ownership or possession.\", \"title2\": \"Examples of Possessive Pronouns\", \"desc2\": \"Understand the usage of pronouns like 'mine', 'yours', 'theirs', etc.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 95,
+        "name": "Irregular Comparatives (good better bad worse)",
+        "category": "English",
+        "content": "{\"title1\": \"Comparative Adjectives: Irregular Forms\", \"desc1\": \"Learn how to form comparatives with irregular adjectives.\", \"title2\": \"Examples of Irregular Comparatives\", \"desc2\": \"Understand irregular comparatives like 'better', 'worse', 'more', etc.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 96,
+        "name": "Irregular Superlatives (good best bad worst)",
+        "category": "English",
+        "content": "{\"title1\": \"Superlative Adjectives: Irregular Forms\", \"desc1\": \"Learn how to form superlatives with irregular adjectives.\", \"title2\": \"Examples of Irregular Superlatives\", \"desc2\": \"Understand irregular superlatives like 'best', 'worst', 'most', etc.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 97,
+        "name": "Reported Speech (Statements Tense Changes)",
+        "category": "English",
+        "content": "{\"title1\": \"Report Speech: Statements\", \"desc1\": \"Learn how to report statements in indirect speech.\", \"title2\": \"Changing Direct Speech to Indirect\", \"desc2\": \"Understand how to change direct speech statements to reported speech with correct tense changes.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 98,
+        "name": "Reported Speech (Questions Word Order)",
+        "category": "English",
+        "content": "{\"title1\": \"Report Speech: Questions\", \"desc1\": \"Learn how to report questions in indirect speech.\", \"title2\": \"Changing Direct Questions to Indirect\", \"desc2\": \"Understand how to change direct questions to reported questions with the correct word order.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 99,
+        "name": "Reported Speech (Requests Commands Infinitives)",
+        "category": "English",
+        "content": "{\"title1\": \"Report Speech: Requests and Commands\", \"desc1\": \"Learn how to report requests and commands in indirect speech.\", \"title2\": \"Changing Requests to Reported Speech\", \"desc2\": \"Understand how to change direct requests to reported speech with modal verbs like 'could' and 'would'.\"}",
+        "lvl": "intermediate"
+    },
+    {
+        "id": 100,
+        "name": "Adjective vs Adverb (Identifying Usage)",
+        "category": "English",
+        "content": "{\"title1\": \"Adjective vs. Adverb\", \"desc1\": \"Learn the difference between adjectives and adverbs and when to use them.\", \"title2\": \"Adjectives\", \"desc2\": \"Understand how adjectives describe nouns and pronouns.\", \"title3\": \"Adverbs\", \"desc3\": \"Explore how adverbs modify verbs, adjectives, or other adverbs.\"}",
+        "lvl": "intermediate"
+    }
+]
