@@ -3,7 +3,7 @@
         "id": 1,
         "name": "English Alphabet",
         "category": "English",
-        "content": "{\"title1\": \"The Alphabet\", \"desc1\": \"Learn the 26 letters of the English alphabet.\", \"title2\": \"Uppercase and Lowercase\", \"desc2\": \"Understand the difference between uppercase and lowercase letters.\"}",
+        "content": "{\"title1\": \"The Alphabet\", \"desc1\": \"Learn the 26 letters of the English alphabet: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.\", \"title2\": \"Uppercase and Lowercase\", \"desc2\": \"Understand the difference between uppercase and lowercase letters.\", \"title3\": \"Vowels and Consonants\", \"desc3\": \"Identify vowels (A, E, I, O, U) and consonants in the alphabet.\", \"title4\": \"Pronunciation of Letters\", \"desc4\": \"Learn the sounds of each letter, especially tricky ones like 'C' and 'G'.\", \"title5\": \"Letter Combinations\", \"desc5\": \"Learn common letter combinations like 'ch', 'sh', and 'th' and how they affect pronunciation.\"}",
         "lvl": "beginner"
     },
     {
