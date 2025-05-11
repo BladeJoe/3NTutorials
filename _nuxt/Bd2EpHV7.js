@@ -1,0 +1,1 @@
+import{N as s}from"./BaOfsupJ.js";import{_ as t,c as a,o as c,b as n,a as r,x as _}from"./DbPUyzq_.js";import"./BPBQpo3n.js";const d={},i={class:"layout"},p={class:"main-contents"};function l(o,m,f,u,N,$){const e=s;return c(),a("div",i,[n(e),r("div",p,[_(o.$slots,"default")])])}const x=t(d,[["render",l]]);export{x as default};
