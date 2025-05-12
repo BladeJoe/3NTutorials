@@ -3,92 +3,103 @@
         "id": 1,
         "name": "English Alphabet",
         "category": "English",
-        "content": [
-            {
-                "desc": "Learn the 26 letters of the English alphabet: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.",
-                "title": "The Alphabet"
-            },
-            {
-                "desc": "Understand the difference between uppercase and lowercase letters.",
-                "title": "Uppercase and Lowercase"
-            },
-            {
-                "desc": "Identify vowels (A, E, I, O, U) and consonants in the alphabet.",
-                "title": "Vowels and Consonants"
-            },
-            {
-                "desc": "Learn the sounds of each letter, especially tricky ones like 'C' and 'G'.",
-                "title": "Pronunciation of Letters"
-            },
-            {
-                "desc": "Learn common letter combinations like 'ch', 'sh', and 'th' and how they affect pronunciation.",
-                "title": "Letter Combinations"
-            }
-        ],
-        "lvl": "beginner"
+        "content": {
+            "titles": [
+                {
+                    "desc": "Learn the 26 letters of the English alphabet: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.",
+                    "title": "The Alphabet"
+                },
+                {
+                    "desc": "Understand the difference between uppercase and lowercase letters.",
+                    "title": "Uppercase and Lowercase"
+                },
+                {
+                    "desc": "Identify vowels (A, E, I, O, U) and consonants in the alphabet.",
+                    "title": "Vowels and Consonants"
+                },
+                {
+                    "desc": "Learn the sounds of each letter, especially tricky ones like 'C' and 'G'.",
+                    "title": "Pronunciation of Letters"
+                },
+                {
+                    "desc": "Learn common letter combinations like 'ch', 'sh', and 'th' and how they affect pronunciation.",
+                    "title": "Letter Combinations"
+                }
+            ]
+        },
+        "lvl": "beginner",
+        "quizId": 1
     },
     {
         "id": 2,
         "name": "Basic Nouns",
         "category": "English",
-        "content": [
-            {
-                "desc": "Learn about nouns, which name people, places, things, or ideas.",
-                "title": "What are Nouns?"
-            },
-            {
-                "desc": "Explore common nouns like 'cat', 'city', and 'table'.",
-                "title": "Common Nouns"
-            }
-        ],
+        "content": {
+            "titles": [
+                {
+                    "desc": "Learn about nouns, which name people, places, things, or ideas.",
+                    "title": "What are Nouns?"
+                },
+                {
+                    "desc": "Explore common nouns like 'cat', 'city', and 'table'.",
+                    "title": "Common Nouns"
+                }
+            ]
+        },
         "lvl": "beginner"
     },
     {
         "id": 3,
         "name": "Subject Pronouns",
         "category": "English",
-        "content": [
-            {
-                "desc": "Learn how subject pronouns replace nouns as the subject of a sentence.",
-                "title": "Introduction to Subject Pronouns"
-            },
-            {
-                "desc": "Understand the basic subject pronouns: I, you, he, she, it, we, they.",
-                "title": "Common Subject Pronouns"
-            }
-        ],
+        "content": {
+            "titles": [
+                {
+                    "desc": "Learn how subject pronouns replace nouns as the subject of a sentence.",
+                    "title": "Introduction to Subject Pronouns"
+                },
+                {
+                    "desc": "Understand the basic subject pronouns: I, you, he, she, it, we, they.",
+                    "title": "Common Subject Pronouns"
+                }
+            ]
+        },
         "lvl": "beginner"
     },
     {
         "id": 4,
         "name": "Action Verbs",
         "category": "English",
-        "content": [
-            {
-                "desc": "Action verbs describe actions that the subject performs.",
-                "title": "What are Action Verbs?"
-            },
-            {
-                "desc": "Explore simple action verbs like 'run', 'eat', and 'sleep'.",
-                "title": "Basic Action Verbs"
-            }
-        ],
+        "content": {
+            "titles": [
+                {
+                    "desc": "Action verbs describe actions that the subject performs.",
+                    "title": "What are Action Verbs?"
+                },
+                {
+                    "desc": "Explore simple action verbs like 'run', 'eat', and 'sleep'.",
+                    "title": "Basic Action Verbs"
+                }
+            ]
+        },
         "lvl": "beginner"
     },
     {
         "id": 5,
         "name": "Descriptive Adjectives",
         "category": "English",
-        "content": [
-            {
-                "desc": "Learn how descriptive adjectives describe the qualities of nouns.",
-                "title": "Introduction to Descriptive Adjectives"
-            },
-            {
-                "desc": "Explore simple descriptive adjectives like 'big', 'happy', and 'blue'.",
-                "title": "Basic Descriptive Adjectives"
-            }
-        ],
+        "content": {
+            "titles": [
+                {
+                    "desc": "Learn how descriptive adjectives describe the qualities of nouns.",
+                    "title": "Introduction to Descriptive Adjectives"
+                },
+                {
+                    "desc": "Explore simple descriptive adjectives like 'big', 'happy', and 'blue'.",
+                    "title": "Basic Descriptive Adjectives"
+                }
+            ]
+        },
         "lvl": "beginner"
     }
 ]
