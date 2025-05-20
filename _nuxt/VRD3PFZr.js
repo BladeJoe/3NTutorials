@@ -1,0 +1,1 @@
+import{_ as s,c as a,a as t,t as o,o as c}from"./CcCy7s0G.js";const r={};function n(e,i){return c(),a("div",null,[t("h1",null,"Test Page for "+o(e.topic),1),t("p",null,"This is a test page for the topic: "+o(e.topic),1)])}const p=s(r,[["render",n]]);export{p as default};
